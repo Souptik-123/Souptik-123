@@ -82,7 +82,7 @@
 ## 🌐 Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/souptik-dey-2616213b2">
+  <a href="www.linkedin.com/in/souptik-dey-2616213b2 ">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
